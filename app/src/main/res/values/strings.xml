@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string-array name="opciones">
+        <item>Seleccione una operación</item>
+        <item>deporte</item>
+        <item>musica</item>
+        <item>cine</item>
+    </string-array>
+</resources>
